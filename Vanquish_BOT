@@ -1,7 +1,7 @@
  #SingleInstance force
 #Include AutoUpdate.ahk
 
-FILE := "https://raw.githubusercontent.com/fredator10/Ragnarok-AutoPotion-Licensing/master/VanquishBot"
+FILE := "https://raw.githubusercontent.com/fredator10/Licenses/main/Vanquish_BOT"
 mode := 16
 
 AutoUpdate(FILE, mode)
